@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "CartingSimulator.sln"
+    "dotnet.defaultSolution": "Karting.sln"
 }
